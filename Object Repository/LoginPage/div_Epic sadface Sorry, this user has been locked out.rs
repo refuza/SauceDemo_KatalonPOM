@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>error_message</name>
+   <name>div_Epic sadface Sorry, this user has been locked out</name>
    <tag></tag>
-   <elementGuidId>c779375e-7593-48a5-b6d3-8a52c1d24745</elementGuidId>
+   <elementGuidId>8dd255fc-1588-4cf8-b203-8653bb97c920</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_button_container']/div/form/div[3]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.error-message-container.error</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@data-test='error']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Epic sadface: Username is required$/</value>
+         <value>div >> internal:has-text=/^Epic sadface: Sorry, this user has been locked out\.$/</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f980067d-1a55-4745-9dbc-7316240e0f80</webElementGuid>
+      <webElementGuid>593a8efa-a540-4a69-8865-63d4778a9355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>error-message-container error</value>
-      <webElementGuid>b48ffa09-5637-4090-af6a-d3f08f42c517</webElementGuid>
+      <webElementGuid>1cdef792-7939-498b-b12e-81c4bbf6c805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Epic sadface: Username is required</value>
-      <webElementGuid>9416deea-62b9-4703-a2ae-29b2139f41fc</webElementGuid>
+      <value>Epic sadface: Sorry, this user has been locked out.</value>
+      <webElementGuid>cfa39b7a-e2f7-4db5-a1d0-d2681e813a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]</value>
-      <webElementGuid>aa7893eb-dbf6-4063-b009-27226e244b68</webElementGuid>
+      <webElementGuid>d3606c00-8ec1-4135-91f6-aa9ad83db1e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form/div[3]</value>
-      <webElementGuid>0b3516e0-8734-4648-b161-424c650b658b</webElementGuid>
+      <webElementGuid>5f0ae60d-ca51-4dd4-a68a-1445c0dcc0b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::div[7]</value>
-      <webElementGuid>1c575928-6994-40b1-9861-6f4d329ea3a1</webElementGuid>
+      <webElementGuid>1b8aac75-4536-412d-87ba-d06c7014a44b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,14 +77,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>82da9507-259b-4d64-9cb5-659a95571290</webElementGuid>
+      <webElementGuid>c767f263-36d2-47db-879c-045e2b33a1d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Epic sadface: Username is required' or . = 'Epic sadface: Username is required')]</value>
-      <webElementGuid>7d7ad12c-97f0-4ae6-ad04-143e80dfdaf5</webElementGuid>
+      <value>//div[(text() = 'Epic sadface: Sorry, this user has been locked out.' or . = 'Epic sadface: Sorry, this user has been locked out.')]</value>
+      <webElementGuid>b84e10bc-abbd-4cea-8bc8-1e21474b51e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

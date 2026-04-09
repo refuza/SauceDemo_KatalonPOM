@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_Login_WithoutUsername_ShowErrorMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>974f2cea-a21c-4cdd-ad4b-3c2c5a2056aa</testCaseGuid>
+</TestCaseEntity>

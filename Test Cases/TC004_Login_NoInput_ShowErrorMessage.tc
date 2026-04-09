@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC001_Successfully Login</name>
+   <name>TC004_Login_NoInput_ShowErrorMessage</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>22274bef-f5f3-4191-84b8-948c2737c8e9</testCaseGuid>
+   <testCaseGuid>4c010525-8d78-475c-8f50-23d3bb364023</testCaseGuid>
 </TestCaseEntity>

@@ -1,6 +1,8 @@
 package pages
 
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
@@ -23,10 +25,14 @@ class LoginPage {
         WebUI.click(findTestObject('LoginPage/button_login'))
     }
 	
-	static void verifyErrorMessage() {
-		WebUI.verifyElementPresent(findTestObject('LoginPage/error_message'), 10)
-		String errorText = WebUI.getText(findTestObject('LoginPage/error_message'))
-		WebUI.comment("Error message displayed: " + errorText)
+//	static void verifyErrorMessage() {
+//		WebUI.verifyElementPresent(findTestObject('LoginPage/error_message'), 10)
+//		String errorText = WebUI.getText(findTestObject('LoginPage/error_message'))
+//		WebUI.comment("Error message displayed: " + errorText)
+//	}
+	
+	static void verifyErrorMessage(String expectedMessage) {
+    WebUI.verifyElementText(findTestObject('LoginPage/error_message'), expectedMessage)
 	}
 
 }
