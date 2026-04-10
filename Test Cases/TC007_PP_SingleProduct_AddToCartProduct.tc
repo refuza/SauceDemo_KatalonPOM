@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_PP_SingleProduct_AddToCartProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ea38039-2487-461b-893d-0d6c0dddded2</testCaseGuid>
+</TestCaseEntity>

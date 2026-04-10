@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>219807ac-5a47-423c-8c07-b24328d4bb5f</webElementGuid>
+      <webElementGuid>c0809c4d-7846-46be-b5b0-7793adf2408e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inventory_container</value>
-      <webElementGuid>dc829708-f7ec-4b90-9279-bda05c906c8f</webElementGuid>
+      <webElementGuid>e0da14a3-aaf9-48cc-8922-f7087b131338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_container</value>
-      <webElementGuid>110aa8d4-b4d6-4627-8d5f-660b1a594a53</webElementGuid>
+      <webElementGuid>c8de87e2-040c-4855-b7bb-706b0292d072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>inventory-container</value>
-      <webElementGuid>3a39ea5f-71cc-4359-9124-a89a215a11a2</webElementGuid>
+      <webElementGuid>e0d6aa2e-f517-45dc-9ed9-c06a1ec56b13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cartSauce Labs Bike LightA red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cartSauce Labs Bolt T-ShirtGet your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.$15.99Add to cartSauce Labs Fleece JacketIt's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Add to cartSauce Labs OnesieRib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.$7.99Add to cartTest.allTheThings() T-Shirt (Red)This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.$15.99Add to cart</value>
-      <webElementGuid>a6d9bc42-ab00-4d90-a741-ba024196f96f</webElementGuid>
+      <webElementGuid>5f709905-8995-46ba-8367-71bae001fa0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contents_wrapper&quot;)/div[@id=&quot;inventory_container&quot;]/div[1]/div[@id=&quot;inventory_container&quot;]</value>
-      <webElementGuid>e0a71c15-a937-45a8-a456-0fb211d93122</webElementGuid>
+      <webElementGuid>6f5f0d33-a2bd-40f0-8694-7ace723a56b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//div[@id='inventory_container'])[2]</value>
-      <webElementGuid>2ef14f5a-a5ab-4713-8a91-c7895de38017</webElementGuid>
+      <webElementGuid>4ca6f407-1243-483f-9b34-6eeb7412f0b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='inventory_container']/div/div</value>
-      <webElementGuid>d4e914b6-6940-4622-a445-d5f24c48f640</webElementGuid>
+      <webElementGuid>80b3eada-3e26-4921-a491-faf41899b839</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/following::div[3]</value>
-      <webElementGuid>aea7462d-06f5-4ab2-884d-db8fc9ec1f78</webElementGuid>
+      <webElementGuid>24da79aa-d500-4af4-9792-d5495ab4964a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::div[4]</value>
-      <webElementGuid>b25559e4-821e-4d32-9b00-dcbad3b264e4</webElementGuid>
+      <webElementGuid>0215d7c7-e799-440f-803e-d9b6ac2a72f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>d55a69fe-368b-4b57-a50f-b97398af36d9</webElementGuid>
+      <webElementGuid>b12cac4f-d407-43d2-a4bd-749ffeaa2868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'inventory_container' and (text() = concat(&quot;Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cartSauce Labs Bike LightA red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cartSauce Labs Bolt T-ShirtGet your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.$15.99Add to cartSauce Labs Fleece JacketIt&quot; , &quot;'&quot; , &quot;s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Add to cartSauce Labs OnesieRib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won&quot; , &quot;'&quot; , &quot;t unravel.$7.99Add to cartTest.allTheThings() T-Shirt (Red)This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.$15.99Add to cart&quot;) or . = concat(&quot;Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.$29.99Add to cartSauce Labs Bike LightA red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Add to cartSauce Labs Bolt T-ShirtGet your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.$15.99Add to cartSauce Labs Fleece JacketIt&quot; , &quot;'&quot; , &quot;s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.$49.99Add to cartSauce Labs OnesieRib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won&quot; , &quot;'&quot; , &quot;t unravel.$7.99Add to cartTest.allTheThings() T-Shirt (Red)This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.$15.99Add to cart&quot;))]</value>
-      <webElementGuid>9453cea9-1256-410c-ac16-d252e9ef309d</webElementGuid>
+      <webElementGuid>33f674a1-322a-4b62-824d-da8bc5cfe06b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
